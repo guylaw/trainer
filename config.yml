@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    com.kovumedia: DEBUG
+template: Welcome, %s!
+defaultName: Guest
